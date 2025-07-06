@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: darkblue;
+    background-color: black;
+    
+}
+p{
+    text-align: justify;
+    border: 10px solid;border-color: brown;border-radius: 15px;
+}
+body{
+    background-color: rgb(67, 120, 120);
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4D1Qj2ejTxBhVEqX3UYwcQ8qRtG-fjYFoyvhHRCUszkkxF_aA5__SWIo4A9jfEIp0Dw&usqp=CAU);
+    background-repeat: no-repeat;
+}
